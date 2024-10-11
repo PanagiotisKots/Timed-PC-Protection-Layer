@@ -25,6 +25,9 @@ Once a user logs in, a 40-second timer begins. To prevent the system from shutti
    - Click **Next** and name the shortcut something discreet, such as **"Windows Manager"**, to maintain stealth.
 4. Once completed, the program will automatically run every time the system starts.
 
+Note: Delete te folder before shutting off the machine so the script can work next time again.
+
+
 ## Contributing
 
 We welcome contributions to improve this project. If you'd like to enhance the security features or add new functionality, feel free to submit your ideas or create a pull request.
