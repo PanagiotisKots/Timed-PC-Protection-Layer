@@ -17,4 +17,4 @@ If you discover a security vulnerability in the **Program**, please follow these
 
 ## Disclaimer
 
-The **Advanced Security Layer for Windows** is provided "as is" without warranty. We do not guarantee full security or protection against breaches. Use it at your own risk. We are not responsible for any data loss or damage resulting from the use of this software.
+The **Software** is provided "as is" without warranty. We do not guarantee full security or protection against breaches. Use it at your own risk. We are not responsible for any data loss or damage resulting from the use of this software.
