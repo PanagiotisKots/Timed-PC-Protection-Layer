@@ -7,7 +7,7 @@ This program adds an **additional layer of security** to your PC, ensuring that 
 The program operates **discreetly** in the background with no visible windows or pop-ups, ensuring that only the owner is aware of its presence, thereby enhancing the security of your personal information.
 
 <div align="center">
-    <img src="https://img.freepik.com/premium-photo/photo-real-stealth-hacker-icon-symbolizing-stealthy-nature-hackers-importance-v_980716-108843.jpg" alt="Stealth Hacker Icon" />
+    <img src="https://img.freepik.com/premium-photo/photo-real-stealth-hacker-icon-symbolizing-stealthy-nature-hackers-importance-v_980716-108843.jpg" alt="Stealth Hacker Icon" width = "900px" height = "450px">
 </div>
 
 ## How It Works
