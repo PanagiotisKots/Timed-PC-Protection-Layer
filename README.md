@@ -8,9 +8,13 @@ This program adds an additional layer of security to your PC, ensuring that even
 
 The program operates discreetly in the background with no visible windows or pop-ups, ensuring that only the owner is aware of its presence, enhancing the security of your personal information.
 
-
+<div align = "center">
 
 <img src = "https://img.freepik.com/premium-photo/photo-real-stealth-hacker-icon-symbolizing-stealthy-nature-hackers-importance-v_980716-108843.jpg">
+
+</div>
+
+
 ## How It Works
 
 Once a user logs in, a 40-second timer begins. To prevent the system from shutting down, the user must create a folder on the desktop named **"Hello"**. If the folder is not created within the time limit, the computer will automatically shut down, protecting your data from unauthorized access.
