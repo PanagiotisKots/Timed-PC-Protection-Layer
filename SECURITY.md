@@ -1,7 +1,5 @@
 # Security Policy
 
-## Reporting a Vulnerability
-
 If you discover a security vulnerability in the **Program**, please follow these guidelines:
 
 1. **Report Location**: Send an email to [pkotsorgios654@gmail.com] to report the vulnerability or create a public issue.
