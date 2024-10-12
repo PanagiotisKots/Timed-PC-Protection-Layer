@@ -2,6 +2,8 @@
 
 This program adds an additional layer of security to your PC, ensuring that even if an attacker gains access to your login credentials, your data remains protected. Upon successful login, the user is prompted with a secret action—creating a folder named **"Hello"** on the desktop within 40 seconds. Failure to complete this action results in an automatic system shutdown, preventing unauthorized access to your data.
 
+<img src = "https://www.poweradmin.com/blog/wp-content/uploads/2019/02/windows-10-security.jpg">
+
 The program operates discreetly in the background with no visible windows or pop-ups, ensuring that only the owner is aware of its presence, enhancing the security of your personal information.
 
 ## How It Works
